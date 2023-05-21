@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Data Projects:</h2>
 
-- <b> Vacation Data Transformation and Manipulation </b>
-  - [Work In Progress](https://github.com/xing-min/insertlink)
+- <b> [Vacation Data Transformation and Manipulation](https://github.com/xing-min/insertlink) </b>
+  - Built a dashsboard to visualize vacation requests from HiBob (HR platform)
+  - Work in progress
 
 
 <h2> 🤳 Connect with me:</h2>

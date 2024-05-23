@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Projects:</h2>
 
-- <b> [Vacation Data Transformation and Manipulation](https://github.com/xing-min/insertlink) </b>
-  - Built a dashsboard to visualize vacation requests from HiBob (HR platform)
+- <b> [Categorize Finance Expenses](https://github.com/xing-min/insertlink) </b>
+  - Categorize expenses into pre-defined categories with LLM using credit card statements
   - Work in progress
 
 
